@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string name="welcome_to_my_first_kotlin_development_series">Welcome to my first Kotlin Development Series</string>
+    <string name="sociteyapp">SociteyApp</string>
+    <string name="kunal">Kunal</string>
+    <string name="a_44">A-44</string>
+    <string name="flat_number">Flat Number</string>
+    <string name="text_view">TextView</string>
+    <string name="visitors">Visitors</string>
+    <string name="dues">dues</string>
+    <string name="Dues">Dues</string>
+    <string name="Directory">Directory</string>
+    <string name="Complaint">HelpDesk</string>
+    <string name="AllotedParking">Parking</string>
+    <string name="todo">TODO</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="name">Name</string>
+    <string name="flatno">FlatNo</string>
+    <string name="username">UserName</string>
+</resources>
